@@ -1,0 +1,7 @@
+\\serv31\Для сохранения работ\215 группа\Ботнарь Артем\PZ_№5\bin\Debug\PZ_№5.exe.config
+\\serv31\Для сохранения работ\215 группа\Ботнарь Артем\PZ_№5\bin\Debug\PZ_№5.exe
+\\serv31\Для сохранения работ\215 группа\Ботнарь Артем\PZ_№5\bin\Debug\PZ_№5.pdb
+\\serv31\Для сохранения работ\215 группа\Ботнарь Артем\PZ_№5\obj\Debug\PZ_№5.csproj.AssemblyReference.cache
+\\serv31\Для сохранения работ\215 группа\Ботнарь Артем\PZ_№5\obj\Debug\PZ_№5.csproj.CoreCompileInputs.cache
+\\serv31\Для сохранения работ\215 группа\Ботнарь Артем\PZ_№5\obj\Debug\PZ_№5.exe
+\\serv31\Для сохранения работ\215 группа\Ботнарь Артем\PZ_№5\obj\Debug\PZ_№5.pdb
